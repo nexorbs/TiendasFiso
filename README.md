@@ -1,17 +1,17 @@
 # Tiendas Fiso
 
 ## Requerimientos
-1. Crear un E-commerce para la tienda física.
-1.1 **API independiente para este servicio**
-1.2 [Tienda similar a la que se quiere](https://www.soccer.com/)
-2. Crear un Dashboard que permita la gestión de productos, etc...
-2.1 Se usará un template [Sakai-PrimeVue](https://sakai.primevue.org/#/?af_id=4218)
-3. Crear una web para la liga
-3.1 **API independiente para este servicio**
-3.2 [página actual de ligas](https://consola.zione.com.mx/rol.juegos.asp?dts=DTS543&m=1)
-3.3 [KingCup Las Vegas](https://kingcup.vegas/)
-3.4 Está página tiene que tener una membresía mensual en la que te permite principalmente obtener descuentos en el ecommerce y algunas cosas exclusivas dentro de la página.
-4. App Mobile de la liga
+- Crear un E-commerce para la tienda física.
+  - **API independiente para este servicio**
+  - [Tienda similar a la que se quiere](https://www.soccer.com/)
+- Crear un Dashboard que permita la gestión de productos, etc...
+  - Se usará un template [Sakai-PrimeVue](https://sakai.primevue.org/#/?af_id=4218)
+- Crear una web para la liga
+  - **API independiente para este servicio**
+  - [página actual de ligas](https://consola.zione.com.mx/rol.juegos.asp?dts=DTS543&m=1)
+  - [KingCup Las Vegas](https://kingcup.vegas/)
+  - Está página tiene que tener una membresía mensual en la que te permite principalmente obtener descuentos en el ecommerce y algunas cosas exclusivas dentro de la página.
+- App Mobile de la liga
 
 > [!NOTE]
 > Está app Mobile, se planteará en un inicio como una PWA, si el cliente no quiere una PWA, se optará por Ionic o Flutter.
@@ -20,25 +20,25 @@
 
 ### E-commerce y Ligas
 
-1. Vue
-2. Typescript
-3. Pinia
-4. TailwindCSS
-5. Vue-Router
-6. Stripe
+- Vue
+- Typescript
+- Pinia
+- TailwindCSS
+- Vue-Router
+- Stripe
 
 > [!NOTE]
 > La web de ligas es un proyecto separado que se hará a partir de un template de PWA, para seguir usando Vue. En dado caso se quiera una app nativa se agregara a la lista de tecnologías Ionic o Flutter.
 
 ### Dashboard
 
-1. Vue
-2. Prime Vue
+- Vue
+- Prime Vue
 
 ### APIs
 
-1. Rust -> Actix
-2. Postgres
+- Rust -> Actix
+- Postgres
 
 ## GIT
 
