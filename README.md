@@ -99,7 +99,56 @@ Un ejemplo de una rama de Feature sería:
 
 ### Ecommerce
 
+- [ ] Diseño (5-10 pantallas, diseño funcional y simple)
+    - **$5,000** - **$6,500**
+- [ ] Autentificación y autorización.
+    - Login
+    - Register
+    - Recover Password
+    - **$5,000** - **$6,000**
+
+#### Tareas completas, tanto como frontend y backend.
+
+- [ ] Landing Page.
+    - **$3,000** - **$4,000**
+- [ ] Página de información (Acerca de, Contacto, Servicios).
+    - **$2,000** - **$2,500**
+- [ ] Carrito de compras y pagos.
+    - **$15,000** - **$25,000**
+- [ ] Productos
+    - Página de productos
+    - Filtros
+    - Recomendaciones
+    - **$10,000** - **$15,000**
+
+##### Dashboard
+
+- [ ] Diseño (5-10 pantallas, diseño funcional y simple)
+    - **$5,000** - **$6,500**
+
+Es el panel de adminsitración
+
+- [ ] CRUD básico (Adminsitración de productos, usuarios y noticias)
+    - **$10,000** - **$20,000**
+- [ ] Mostrar estadisticas (Producto más vendido, ingresos, etc...)
+    - **$5,000**
+
 ### Ligas
 
-### Mobile
+- [ ] Diseño (5-10 pantallas, diseño funcional y simple)
+    - **$5,000** - **$6,500**
+
+#### Tareas completas, tanto como frontend y backend.
+
+- [ ] Página de listado de jugadores
+    - Básico: **$8,000** - **$9,000**
+    - Avanzado: **$9,000** - **$12,000**
+        - Incluye filtros dinámicos, búsqueda avanzada y ranking en tiempo real.
+        - Estadísticas visuales con gráficos o tablas interactivas.
+- [ ] Página de blog o noticias
+    - **$5,000** - **$7,500**
+- [ ] Página de perfil de usuario
+    - **$2,000** - **$3,000**
+- [ ] Página de accesos directos (selección de jugadores por posición)
+    - **$2,000** - **$4,000**
 
