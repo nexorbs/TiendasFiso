@@ -141,3 +141,75 @@ Es el panel de adminsitración
 - [ ] Página de perfil de usuario
 - [ ] Página de accesos directos (selección de jugadores por posición)
 
+## Conceptos mensuales o cotizaciones externas
+
+### VPS
+
+#### DigitalOcean
+
+#### Hostinger
+
+Hostinger nos ofrece diferentes VPS:
+
+| **Plan**  | **Precio (MX$)**    | **Precio al renovar (MX$)** | **vCPU**  | **RAM** | **Espacio NVMe** | **Ancho de banda** | **Centros de datos** | **Sistema operativo** |
+|-----------|---------------------|-----------------------------|-----------|---------|------------------|--------------------|----------------------|-----------------------|
+| **KVM 1** | 90.99 (Ahorra 61%)  | 151.99                      | 1 núcleo  | 4 GB    | 50 GB            | 4 TB               | En todo el mundo     | Linux                 |
+| **KVM 2** | 124.99 (Ahorra 59%) | 201.99                      | 2 núcleos | 8 GB    | 100 GB           | 8 TB               | En todo el mundo     | Linux                 |
+| **KVM 4** | 184.99 (Ahorra 66%) | 436.99                      | 4 núcleos | 16 GB   | 200 GB           | 16 TB              | En todo el mundo     | Linux                 |
+| **KVM 8** | 335.99 (Ahorra 70%) | 873.99                      | 8 núcleos | 32 GB   | 400 GB           | 32 TB              | En todo el mundo     | Linux                 |
+
+Y nos ofrece diferentes tiempos de contratación con un mismo precio:
+
+- 1 mes
+- 12 meses
+- 24 meses
+
+Si tomamo el paquete **KVM 2** a un plazo de **24 meses** nos da un subtotal de: **$2,999.76 MXN**
+
+> [!NOTE]
+> Este subtotal no incluye impuestos
+
+### Dominio
+
+#### Hostinger
+
+Hostinger ofrece un servicio de dominios, `.com`, `.io`, `.online`, etc...
+
+El dominio `https://tiendasfiso.com` en Hostinger cuesta:
+
+> [!NOTE]
+> Este subtotal no incluye impuestos
+
+- Por un plazo de 1 año: **$176.99 MXN**.
+- Por un plazo de 2 años: **$399.98 MXN**.
+- Por un plazo de 3 años: **$699.97 MXN**.
+
+### Cloudflare
+
+Este servicio lo utilizariamos para manejar subdominios, para los diferentes proyectos.
+
+#### Ejemplo
+
+- Dominio: `https://tiendasfiso.com`
+- Subdominios:
+    - Ligas: `https://liga.tiendasfiso.com`
+    - Dashboard: `https://dashboard.tiendasfiso.com`
+
+### Stripe
+
+**Tarifa estándar de Stripe en México**
+
+- **3.6%** + **$3.00 MXN** por transacción exitosa.
+
+#### Ejemplo
+
+Si el cliente realiza una compra de **$1,000 MXN** el calculo seria:
+
+1. **3.6%** de **$1,000 MXN** es **$36 MXN**.
+2. **Tarifa fija** de **$3 MXN**.
+3. **Total descontado** de **$39 MXN**.
+
+El comerciante recibira:
+
+**$1,000 MXN** - **$39 MXN** = **$961 MXN**
+
