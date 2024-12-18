@@ -5,7 +5,7 @@
   - **API independiente para este servicio**
   - [Tienda similar a la que se quiere](https://www.soccer.com/)
 - Crear un Dashboard que permita la gestión de productos, etc...
-  - Se usará un template [Sakai-PrimeVue](https://sakai.primevue.org/#/?af_id=4218)
+<!--  - Se usará un template [Sakai-PrimeVue](https://sakai.primevue.org/#/?af_id=4218) -->
 - Crear una web para la liga
   - **API independiente para este servicio**
   - [página actual de ligas](https://consola.zione.com.mx/rol.juegos.asp?dts=DTS543&m=1)
