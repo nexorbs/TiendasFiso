@@ -186,7 +186,7 @@ El dominio `https://tiendasfiso.com` en Hostinger cuesta:
 
 ### Cloudflare
 
-Este servicio lo utilizariamos para manejar subdominios, para los diferentes proyectos.
+Este servicio lo utilizariamos para manejar la seguridad y subdominios, para los diferentes servicios.
 
 #### Ejemplo
 
