@@ -16,6 +16,9 @@
 > [!NOTE]
 > Está app Mobile, se planteará en un inicio como una PWA, si el cliente no quiere una PWA, se optará por Ionic o Flutter.
 
+> [!NOTE]
+> Si se desea una app nativa, se tienen que tomar en cuenta las actualizaciones anuales que cada plataforma pide para poder evaluar que sea una app usada más los pagos de cada plataforma, AppStore: **$1,000 MXN** anuales && PlayStore: **$600 MXN** pago unico.
+
 ## Tecnologías
 
 ### E-commerce y Ligas
