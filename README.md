@@ -198,6 +198,9 @@ Este servicio lo utilizariamos para manejar la seguridad y subdominios, para los
     - Ligas: `https://liga.tiendasfiso.com`
     - Dashboard: `https://dashboard.tiendasfiso.com`
 
+* [x] Protección contra ataquest DDoS && EDoS
+* [x] Mejora en el rendimiento de la web
+
 ### Stripe
 
 **Tarifa estándar de Stripe en México**
